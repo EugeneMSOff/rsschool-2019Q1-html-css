@@ -1,2 +1,4 @@
-# rsschool-2019Q1-html-css
-HTML CSS self education
+Evgenii Mazilov
+
+HTML CSS Basics:
+https://www.codecademy.com/users/textAce24223/achievements
